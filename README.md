@@ -17,22 +17,29 @@
 ---
 
 ## 📊 GitHub Stats & Activity  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunoLeong/My-Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunoLeong/My-Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunoLeong/My-Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunoLeong/My-Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<p align="center">
+  📝 <b>Note:</b> <i>Top languages is a metric of my public code and does not reflect my proficiency level.</i>
+</p>
 
-📝 **Note:** _Top languages is a metric of my public code and does not reflect my proficiency level._
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JunoLeong&theme=tokyonight" width="48%"/>
-
-📂 **Check out my repositories:** [GitHub Projects](https://github.com/JunoLeong?tab=repositories)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunoLeong&theme=tokyonight" width="48%"/>
+</p>
 </details>
+
+**📂Check out my repositories:** [GitHub Projects](https://github.com/JunoLeong?tab=repositories)
+
 
 ---
 
