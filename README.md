@@ -12,24 +12,27 @@
 - 📚 BSc (Hons) in **Cognitive Sciences** Graduate @ **UNIMAS**  
 - 🌏 Based in **Sarawak, Malaysia**  
 - 💡 Passionate about **exploring innovative solutions** and advancing **AI and cognitive science**.  
-- 🖥️ Enthusiastic about **application development**, including **web development, mobile apps, and game design**.  
+- 🖥️ Enthusiastic about **AI modelling** and **application development**, including **AI app**, **web development, mobile apps, and game design**.  
 
 ---
 
 ## 📊 GitHub Stats & Activity  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunoLeong/My-Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunoLeong&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunoLeong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="48%"/>
-  <br>📝 <b> Note: </b> <i>Top languages is a metric of my public code and does not reflect my proficiency level.</i>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunoLeong&theme=tokyonight" width="48%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunoLeong/My-Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+📝 **Note:** _Top languages is a metric of my public code and does not reflect my proficiency level._
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JunoLeong&theme=tokyonight" width="48%"/>
+
+📂 **Check out my repositories:** [GitHub Projects](https://github.com/JunoLeong?tab=repositories)
 </details>
-
-
-📂 **Check out my repositories:** [GitHub Projects](https://github.com/JunoLeong?tab=repositories)  
-
 
 ---
 
