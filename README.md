@@ -51,12 +51,13 @@
   <a href="https://github.com/JunoLeong">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:beechingleong01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.youtube.com/@BeechingLeong">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="https://buymeacoffee.com/junoleong">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  
 </p>
 
 ---
