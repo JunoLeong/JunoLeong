@@ -10,7 +10,7 @@
 - 🏷 **Name:** Bee Ching Leong (or Juno if it's easier to remember!)  
 - 🎓 MSc Student in **Cognition and Artificial Intelligence** @ **Universiti Malaysia Sarawak (UNIMAS)**  
 - 📚 BSc (Hons) in **Cognitive Sciences** Graduate @ **UNIMAS**  
-- 🌏 Based in **Sarawak, Malaysia**  
+- 🌏 Currently, based in **Sarawak, Malaysia** (Origin is Kedah)
 - 💡 Passionate about **exploring innovative solutions** and advancing **AI and cognitive science**.  
 - 🖥️ Enthusiastic about **AI modelling** and **application development**, including **AI app**, **web development, mobile apps, and game design**.  
 
