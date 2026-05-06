@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-- 🏷 **Name:** Bee Ching Leong (or Juno if it's easier to remember!)  
+- 🏷 **Name:** Leong Bee Ching (or Juno if it's easier to remember!)  
 - 🎓 MSc Student in **Cognition and Artificial Intelligence** @ **Universiti Malaysia Sarawak (UNIMAS)**  
 - 📚 BSc (Hons) in **Cognitive Sciences** Graduate @ **UNIMAS**  
 - 🌏 Currently, based in **Sarawak, Malaysia** (Origin is Kedah)
@@ -19,12 +19,12 @@
 ## 📊 GitHub Stats & Activity  
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JunoLeong/My-Github-Stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JunoLeong/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JunoLeong/My-Github-Stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JunoLeong/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
 </p>
